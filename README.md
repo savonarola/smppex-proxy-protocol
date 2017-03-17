@@ -8,7 +8,7 @@ information.
 SMPPEX is built on top of Ranch library, so it is Ranch transport agnostic.
 Since there is an implementation of a Ranch transport supporting Proxy Protocol
 by Heroku([ranch_proxy](https://github.com/heroku/ranch_proxy_protocol)),
-everithing is very straightforward.
+everything is very straightforward.
 
 To reproduce the demo, do the following.
 
