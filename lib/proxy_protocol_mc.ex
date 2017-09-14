@@ -1,5 +1,5 @@
 defmodule ProxyProtocolMc do
-  use SMPPEX.MC
+  use SMPPEX.Session
 
   require Logger
 

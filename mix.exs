@@ -17,7 +17,7 @@ defmodule ProxyProtocolMc.Mixfile do
 
   defp deps do
     [
-      {:smppex, "~> 0.3.0"},
+      {:smppex, "~> 2.0"},
       {:ranch_proxy_protocol, github: "heroku/ranch_proxy_protocol"},
       {:ranch, "~> 1.3", override: true}
     ]
